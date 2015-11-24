@@ -1,0 +1,14 @@
+spring:
+  dataSource:
+    mysql:
+      driverClassName: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/spring
+      username: root
+      password: ri1yvi2txgt6
+  view:
+    prefix: /WEB-INF/view/
+    suffix: .jsp
+#  hibernate:
+#    dialect: org.hibernate.dialect.MySQLDialect
+#    hbm2ddl.auto: create
+#    show_sql: true
