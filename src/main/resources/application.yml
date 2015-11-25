@@ -4,7 +4,7 @@ spring:
       driverClassName: com.mysql.jdbc.Driver
       url: jdbc:mysql://127.0.0.1:3306/spring
       username: root
-      password: ri1yvi2txgt6
+      password: 123456
   view:
     prefix: /WEB-INF/view/
     suffix: .jsp
